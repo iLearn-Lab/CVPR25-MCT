@@ -13,7 +13,7 @@
 
 ## Links
 
-- **Paper**: [arXiv:2406.19827](https://arxiv.org/abs/2406.19827)
+- **Paper**: [https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.pdf](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.pdf)
 - **Project Page**: [GitHub (iLearn-Lab/CVPR25-MCT)](https://github.com/iLearn-Lab/CVPR25-MCT)
 - **CVPR 2025 Virtual Page**: [Poster 34469](https://cvpr.thecvf.com/virtual/2025/poster/34469)
 
