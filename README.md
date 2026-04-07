@@ -70,14 +70,6 @@ This repository provides:
 
 ---
 
-## Method / Framework
-
-![Framework](./CVPR_MCT_POSTER.png)
-
-**Figure 1.** Comparison of Traditional Trajectory Matching vs. Matching Convexified Trajectory (MCT).
-
----
-
 ## Project Structure
 
 ```text
